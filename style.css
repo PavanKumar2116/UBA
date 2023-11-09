@@ -10,10 +10,7 @@ h1{
     display: -moz-inline-grid;
 }
 body{
-    background-image:url('RRR.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+   background-color: black;
 }
 .container {
   position: relative;
