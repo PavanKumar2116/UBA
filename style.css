@@ -36,11 +36,9 @@ p{
     color: aliceblue;
     font-size: 20px;
     display: inline-table;
-}
-.Pavan1{
-    color: aliceblue;
-    font-size: 20px;
-    display:inline-flexbox;
+    font-style: oblique;
+    list-style: none;
+    display: -moz-inline-grid;
 }
 .New{
     color: aliceblue;
