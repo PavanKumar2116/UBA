@@ -10,7 +10,7 @@ h1{
     display: -moz-inline-grid;
 }
 body{
-    background-image:url(UBA22.jpeg);
+    background-image:url('UBA22.jpeg');
 }
 .container {
   position: relative;
