@@ -15,6 +15,13 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: url(background.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
 h2,h3{
     color: aliceblue;
     font-size: 40px;
