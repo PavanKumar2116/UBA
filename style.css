@@ -1,0 +1,39 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+#BB{
+    font-size: 35px;
+    font-style: oblique;
+    list-style: none;
+    display: -moz-inline-grid;
+}
+body{
+    background-image: url(UBA1.jpg);
+}
+h2,h3{
+    color: aliceblue;
+    font-size: 40px;
+}
+p{
+    color: aliceblue;
+    font-size: 25px;
+    font: bolder;
+    font-style: oblique;
+}
+.Pavan{
+
+    color: aliceblue;
+    font-size: 20px;
+    display: inline-table;
+}
+.Pavan1{
+    color: aliceblue;
+    font-size: 20px;
+    display:inline-flexbox;
+}
+.New{
+    color: aliceblue;
+    font-size: 40px;
+}
