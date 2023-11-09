@@ -11,6 +11,9 @@ h1{
 }
 body{
     background-image:url('UBA22.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .container {
   position: relative;
