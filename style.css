@@ -11,6 +11,9 @@ h1{
 }
 body{
     background-image: url(UBA21.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 h2,h3{
     color: aliceblue;
