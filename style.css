@@ -12,13 +12,6 @@ h1{
 body{
    background-color: black;
 }
-.container {
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-  background: url(background.jpg) no-repeat center center fixed;
-  background-size: cover;
-}
 #zoomImage {
   position: absolute;
   top: 50%;
