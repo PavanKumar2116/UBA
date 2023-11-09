@@ -8,6 +8,12 @@ h1{
     font-style: oblique;
     list-style: none;
     display: -moz-inline-grid;
+    float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 body{
    background-color: black;
