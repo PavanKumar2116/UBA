@@ -10,11 +10,7 @@ h1{
     display: -moz-inline-grid;
 }
 body{
-    background-image: url(UBA21.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-image: url(UBA21.jpg);
 }
 h2,h3{
     color: aliceblue;
